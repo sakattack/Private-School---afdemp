@@ -16,7 +16,7 @@ public class PrivateSchool {
      */
     public static void main(String[] args) {
         
-        //open for busines
+        //open for business
         School.open("AFDemp");
         
     }
